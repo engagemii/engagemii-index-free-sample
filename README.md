@@ -1,5 +1,7 @@
 # engagemii-index-free-sample
 
+![Free AI visibility data from the Engagemii Index](free-ai-visibility-data.png)
+
 Free data on how visible companies are to AI assistants (ChatGPT, Claude, Perplexity, Gemini and others).
 
 This repo holds a 500-company US sample from the Engagemii Index, the world's largest AI visibility index. The index scores 82 million+ companies on how visible they are to AI assistants. Engagemii logs which AI engines read about each company and how often.
